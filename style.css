@@ -1,0 +1,21 @@
+body{
+    padding: 10px;
+}
+
+input{
+    width: calc(100% - 15px);
+}
+
+img{
+    height: 50px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.galeria{
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
